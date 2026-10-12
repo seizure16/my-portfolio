@@ -35,7 +35,7 @@ function Projects() {
 
       ],
       images: [rawlog_landing_page],
-      link: "https://github.com/16ur/rawlog",
+      link: "https://github.com/seizure16/rawlog",
       confidential: false,
     },
     {
@@ -73,7 +73,7 @@ function Projects() {
         "Interface d'administration produits & utilisateurs",
       ],
       images: [keycraftedImg],
-      link: "https://github.com/16ur/keycrafted",
+      link: "https://github.com/seizure16/keycrafted",
       confidential: false,
     },
     {

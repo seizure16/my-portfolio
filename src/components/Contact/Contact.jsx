@@ -36,7 +36,7 @@ function Contact() {
 
           <div className="contact-socials">
             <a
-              href="https://github.com/16ur"
+              href="https://github.com/seizure16"
               target="_blank"
               rel="noopener noreferrer"
               className="contact-social"
